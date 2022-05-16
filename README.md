@@ -37,7 +37,7 @@
 </div>  
 
 # <h3 align=center>✈️ Languages and Tools</h3>
-<img align=left src="https://user-images.githubusercontent.com/72276849/168524845-5012d90a-4197-4b3a-8335-bab281b5a67a.gif" width=350px/>
+<img align=left src="https://user-images.githubusercontent.com/72276849/168524845-5012d90a-4197-4b3a-8335-bab281b5a67a.gif" width=310px/>
 <div align=right>
   <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" width="50px"/>
   <img src="https://img.icons8.com/color/50/000000/python--v1.png" alt="Python" width="50px"/>
@@ -54,3 +54,9 @@
   <img src="https://img.icons8.com/color/50/000000/azure-1.png" alt="azure" width="50px"/>
 </div>
 
+# <h3 align=center><img src="https://user-images.githubusercontent.com/72276849/168531287-55836bfc-9a91-4eb8-9b64-4c775a4340e3.gif" alt="statsgif" width="20px"/> Statistical Data</h3>
+<p align=center><img align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=tatwamasidotexe&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    alt="tatwamasidotexeStats" 
+    bg_color=#808080/>
+</p>
