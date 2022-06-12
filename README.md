@@ -1,7 +1,7 @@
 <!-- BANNER -->
 ![](channelHeaderMin.png)
 <div align='center'>
-  <h1><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I’m Tatwamasi!<br/>
+  <h1><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height=30px> Hi, I’m Tatwamasi!<br/>
     <p align="center"> <img src="https://komarev.com/ghpvc/?username=tatwamasidotexe&label=Profile%20Views&color=ed7309&style=flat" alt="tatwamasidotexe" /> </p>
   </h1>
 
@@ -35,7 +35,7 @@
   </a>
 </div>
 
-# <h3 align=center><img src="https://user-images.githubusercontent.com/72276849/168531287-55836bfc-9a91-4eb8-9b64-4c775a4340e3.gif" alt="statsgif" width="20px"/> Statistical Data</h3>
+# <h3 align=center><img src="https://user-images.githubusercontent.com/72276849/168531287-55836bfc-9a91-4eb8-9b64-4c775a4340e3.gif" alt="statsgif" height="20px"/> Statistical Data</h3>
 <p align=center><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=tatwamasidotexe&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="tatwamasidotexeStats" 
