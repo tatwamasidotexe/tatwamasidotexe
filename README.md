@@ -5,9 +5,9 @@
     <p align="center"> <img src="https://komarev.com/ghpvc/?username=tatwamasidotexe&label=Profile%20Views&color=ed7309&style=flat" alt="tatwamasidotexe" /> </p>
   </h1>
 
-  👀 I’m interested in backend web development and data science. </br>
-  🌱 I’m currently learning Javascript-based backend technologies and exploring with the MERN stack! </br>
-  💞️ I’m looking to collaborate on projects using Javascript or Python. </br>
+  👀 I’m interested in data science and backend development. </br>
+  🌱 I’m currently experimenting with exploratory data analysis and machine learning! </br>
+  💞️ I’m looking to collaborate on projects using Python, Java and JavaScript based technologies. </br>
   🌈 Fun fact about me? I love sunsets and pretty skies. And dad jokes. </br>
   📧 Reach me at tatwamasi01@gmail.com
 </div>  
