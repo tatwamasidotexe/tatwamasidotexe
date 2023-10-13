@@ -57,5 +57,5 @@
   <img src="https://img.icons8.com/ios-filled/50/207DFF/php-logo.png"><br/>
   <img src="https://img.icons8.com/fluent/48/000000/node-js.png" alt="nodejs" width="50px"/>
   <img src="https://img.icons8.com/color/50/000000/mysql-logo.png" alt="mysql" width="50px"/> <br/>   
-  <img src="https://img.icons8.com/color/50/000000/azure-1.png" alt="azure" width="50px"/>
+<!--   <img src="https://img.icons8.com/color/50/000000/azure-1.png" alt="azure" width="50px"/> -->
 </div>
